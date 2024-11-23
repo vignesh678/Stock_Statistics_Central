@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Reliance Industries",
+      "dividendHistory": [
+     
+        { "year": 2020, "dividend": 6.00, "growth": 0.00 },
+        { "year": 2021, "dividend": 7.00, "growth": 16.67 },
+        { "year": 2022, "dividend": 7.50, "growth": 7.14 },
+        { "year": 2023, "dividend": 8.00, "growth": 6.67 }
+      ]
+    },
+    {
+      "name": "TCS",
+      "dividendHistory": [
+      
+        { "year": 2020, "dividend": 40.00, "growth": 37.93 },
+        { "year": 2021, "dividend": 50.00, "growth": 25.00 },
+        { "year": 2022, "dividend": 75.00, "growth": 50.00 },
+        { "year": 2023, "dividend": 100.00, "growth": 33.33 }
+      ]
+    },
+    {
+      "name": "Infosys",
+      "dividendHistory": [
+     
+        { "year": 2020, "dividend": 15.00, "growth": 11.11 },
+        { "year": 2021, "dividend": 15.00, "growth": 0.00 },
+        { "year": 2022, "dividend": 16.50, "growth": 10.00 },
+        { "year": 2023, "dividend": 17.50, "growth": 6.06 }
+      ]
+    },
+    {
+      "name": "HDFC Bank",
+      "dividendHistory": [
+
+        { "year": 2020, "dividend": 15.00, "growth": 0.00 },
+        { "year": 2021, "dividend": 15.00, "growth": 0.00 },
+        { "year": 2022, "dividend": 17.00, "growth": 13.33 },
+        { "year": 2023, "dividend": 19.00, "growth": 11.76 }
+      ]
+    },
+    {
+      "name": "ICICI Bank",
+      "dividendHistory": [
+
+        { "year": 2020, "dividend": 6.00, "growth": -7.69 },
+        { "year": 2021, "dividend": 10.00, "growth": 66.67 },
+        { "year": 2022, "dividend": 7.50, "growth": -25.00 },
+        { "year": 2023, "dividend": 8.50, "growth": 13.33 }
+      ]
+    },
+    {
+      "name": "Hindustan Unilever (HUL)",
+      "dividendHistory": [
+
+        { "year": 2020, "dividend": 44.00, "growth": 12.82 },
+        { "year": 2021, "dividend": 45.00, "growth": 2.27 },
+        { "year": 2022, "dividend": 49.00, "growth": 8.89 },
+        { "year": 2023, "dividend": 57.00, "growth": 16.33 }
+      ]
+    }
+  ]

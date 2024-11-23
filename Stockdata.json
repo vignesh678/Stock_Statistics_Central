@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Reliance Industries",
+    "stockHistory": [
+      { "id": 1, "year": 2019, "high": 1616.00, "low": 1016.00 },
+      { "id": 2, "year": 2020, "high": 2368.00, "low": 867.00 },
+      { "id": 3, "year": 2021, "high": 2750.00, "low": 1830.00 },
+      { "id": 4, "year": 2022, "high": 2856.00, "low": 2180.00 },
+      { "id": 5, "year": 2023, "high": 2822.00, "low": 2180.00 }
+    ]
+  },
+  {
+    "name": "TCS",
+    "stockHistory": [
+      { "id": 1, "year": 2019, "high": 2300.00, "low": 1800.00 },
+      { "id": 2, "year": 2020, "high": 2845.00, "low": 1810.00 },
+      { "id": 3, "year": 2021, "high": 3935.00, "low": 2785.00 },
+      { "id": 4, "year": 2022, "high": 4043.00, "low": 3000.00 },
+      { "id": 5, "year": 2023, "high": 3650.00, "low": 2885.00 }
+    ]
+  },
+  {
+    "name": "Infosys",
+    "stockHistory": [
+      { "id": 1, "year": 2019, "high": 830.00, "low": 630.00 },
+      { "id": 2, "year": 2020, "high": 1400.00, "low": 730.00 },
+      { "id": 3, "year": 2021, "high": 1784.00, "low": 1200.00 },
+      { "id": 4, "year": 2022, "high": 1953.00, "low": 1372.00 },
+      { "id": 5, "year": 2023, "high": 1635.00, "low": 1220.00 }
+    ]
+  },
+  {
+    "name": "HDFC Bank",
+    "stockHistory": [
+      { "id": 1, "year": 2019, "high": 1300.00, "low": 990.00 },
+      { "id": 2, "year": 2020, "high": 1480.00, "low": 820.00 },
+      { "id": 3, "year": 2021, "high": 1691.00, "low": 1400.00 },
+      { "id": 4, "year": 2022, "high": 1723.00, "low": 1320.00 },
+      { "id": 5, "year": 2023, "high": 1794.00, "low": 1364.00 }
+    ]
+  },
+  {
+    "name": "ICICI Bank",
+    "stockHistory": [
+      { "id": 1, "year": 2019, "high": 520.00, "low": 350.00 },
+      { "id": 2, "year": 2020, "high": 570.00, "low": 270.00 },
+      { "id": 3, "year": 2021, "high": 864.00, "low": 640.00 },
+      { "id": 4, "year": 2022, "high": 1009.00, "low": 650.00 },
+      { "id": 5, "year": 2023, "high": 1070.00, "low": 773.00 }
+    ]
+  },
+  {
+    "name": "Hindustan Unilever (HUL)",
+    "stockHistory": [
+      { "id": 1, "year": 2019, "high": 2100.00, "low": 1700.00 },
+      { "id": 2, "year": 2020, "high": 2200.00, "low": 1600.00 },
+      { "id": 3, "year": 2021, "high": 2800.00, "low": 2015.00 },
+      { "id": 4, "year": 2022, "high": 2816.00, "low": 2125.00 },
+      { "id": 5, "year": 2023, "high": 2800.00, "low": 2310.00 }
+    ]
+  }
+]
